@@ -1,2 +1,2 @@
 # magnumopus
-Pragmatism a consulting firm
+starter website for our firm.
